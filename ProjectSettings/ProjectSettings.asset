@@ -825,7 +825,8 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   webEnableSubmoduleStrippingCompatibility: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: FISHNET;FISHNET_V4
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -922,7 +923,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: cfebeb03-0e62-4363-a998-5d0459cb2c5c
   framebufferDepthMemorylessMode: 0
