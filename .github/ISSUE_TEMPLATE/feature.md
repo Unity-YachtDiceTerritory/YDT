@@ -1,5 +1,5 @@
 ---
-name: 기능 개발 템플릿
+name: feature
 about: 기능의 추가/확장시 작업 단위별로 작성
 title: ''
 labels: ''
